@@ -44,6 +44,19 @@ p {
     margin-top: 35px;
 }
 
+
 /* ################# */
 /* FIN CODE ORIGINEL */
 /* ################# */
+
+/* START Sp6M3N's card */
+#sp-logo {
+    border-radius: 50%;
+    height: 100%;
+}
+
+#sp-card{
+    border-top: 10px solid rgb(0, 128, 60);
+}
+
+/* END Sp6M3N's card */
