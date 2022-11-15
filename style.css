@@ -25,23 +25,39 @@
 img {
     border-radius: 50%;
     width: 70px;
-    margin: 10px;
+    margin: 15px;
 }
 
 h1 {
     font-weight: lighter;
     margin-left: 100px;
-    margin-top: -30px;
+    margin-top: -70px;
+    width: 150px;
 }
 
 p {
+    font-weight: 800;
     margin: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.4em;
     font-size: 1.2em;
+    margin-left: 110px;
+    margin-top: 35px;
 }
 
 
 /* ################# */
 /* FIN CODE ORIGINEL */
 /* ################# */
+
+/* START Sp6M3N's card */
+#sp-logo {
+    border-radius: 50%;
+    height: 100%;
+}
+
+#sp-card{
+    border-top: 10px solid rgb(0, 128, 60);
+}
+
+/* END Sp6M3N's card */
