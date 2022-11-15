@@ -3,7 +3,7 @@
 /* ################### */
 
 #mainbox {
-    font-family: calibri;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     box-sizing: border-box;
     justify-content: center;
     display: flex;
@@ -13,12 +13,13 @@
 .card{
 
     width: 350px;
-    border: 1px solid gray;
-    box-shadow: 1px 1px 3px #888;
-    border-top: 10px solid purple;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 1px 1px 3px rgb(0, 0, 0);
+    border-top: 10px solid rgb(255, 83, 9);
     min-height: 250px;
     padding: 10px;
     margin: 40px;
+    
 }
 
 img {
@@ -35,10 +36,11 @@ h1 {
 
 p {
     margin: 10px;
-    font-family: segoe ui;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.4em;
     font-size: 1.2em;
 }
+
 
 /* ################# */
 /* FIN CODE ORIGINEL */
